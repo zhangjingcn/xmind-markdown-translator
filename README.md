@@ -2,7 +2,13 @@
 
 ## introduction
 
-This tool inspired by one of my colleague who just use xmind to make summary. Xmind is good at mind mapping, it seem that when you read a book or article, xmind can help you quickly summarize the key point. But if you want to share it with others, xmind seems a little troble. This tool help you translate xmind file to markdown syntax. In future, it may support markdown syntax to xmind.
+This tool inspired by one of my colleague who just use xmind to make summary. Xmind is good at mind mapping, it seem that when you read a book or article, xmind can help you quickly summarize the key point. But if you want to share it with others, xmind seems a little trouble. This tool help you translate xmind file to markdown syntax. In future, it may support markdown syntax to xmind.
+
+## demo
+
+* xmind translate to markdown
+    * xmind [idea.xmind](demo/idea.xmind)
+    * markdown translated by this tool [idea.md](demo/idea.md)
 
 ## features
 
@@ -25,12 +31,6 @@ This tool inspired by one of my colleague who just use xmind to make summary. Xm
 * style of note like font family、font size、font style、background、indent
 
 #### markdown to xmind (comming soon probably)
-
-## demo
-
-* xmind translate to markdown
-    * xmind [idea.xmind](demo/idea.xmind)
-    * markdown translated by this tool [idea.md](demo/idea.md)
 
 ## usage
 
