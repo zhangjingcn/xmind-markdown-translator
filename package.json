@@ -1,0 +1,17 @@
+{
+  "name": "xmind-and-markdown-translator",
+  "version": "0.1.0",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "babel-core": "6.13.2",
+    "babel-polyfill": "6.13.0",
+    "babel-preset-es2015-node6": "0.3.0",
+    "babel-preset-stage-3": "6.5.0",
+    "lodash": "4.17.3",
+    "xmind": "~0.4.0",
+    "commander" : "~2.9.0"
+  }
+}
